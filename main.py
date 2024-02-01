@@ -5,6 +5,7 @@ from task_package.categorize_task import categorize_task
 
 # Create a task
 task1 = create_task("Complete Your Assignment", "Finish TASK MANAGEMENT SYSTEM")
+task2 = create_task("New Task", "Learning")
 
 # Display the task
 print("Task 1:", task1)
